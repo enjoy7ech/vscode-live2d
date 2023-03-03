@@ -109,6 +109,7 @@ initL2DWidget(
     height: "200px",
     right: 0,
     bottom: 0,
+    "pointer-events": "none",
   },
   {
     width: "100%",
